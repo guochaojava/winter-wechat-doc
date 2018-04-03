@@ -1,0 +1,10 @@
+com.lgd.winter.wechat.config
+com.lgd.winter.wechat.content.mini.core
+com.lgd.winter.wechat.content.mini.request
+com.lgd.winter.wechat.content.pay.core
+com.lgd.winter.wechat.content.pay.param
+com.lgd.winter.wechat.content.pay.request
+com.lgd.winter.wechat.content.pay.util
+com.lgd.winter.wechat.content.tecent.core
+com.lgd.winter.wechat.content.tecent.request
+com.lgd.winter.wechat.core
